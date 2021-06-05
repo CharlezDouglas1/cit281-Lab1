@@ -1,6 +1,6 @@
 # Welcome to Lab 1 (Week 1!) Review
 
-During this lab we were instructed to install adn setup all needed and required tools and content in order to be successful throughout this course!
+During this lab we were instructed to install and setup all needed and required tools and content in order to be successful throughout this course!
 
 ### The assigned task for lab:
 - We practiced using software tools
